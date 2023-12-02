@@ -5,8 +5,8 @@
 [![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CleitonLealbb) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleiton-l-189062123/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cleitonleal_ofc/)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Cleiton Lealbb&show_icons=true&count_private=true&hide_border= true&title_color=00bfbf&icon_color=00bfbf&text_color=00bfbf&bg_color=c8c7bf00" alt="CLEITON LEAL DE BRITO github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleiton Lealbb&layout=compact&hide_border= true&title_color=00bfbf&text_color=00bfbf&bg_color=c8c7bf00" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CleitonLealbb&show_icons=true&count_private=true&hide_border= true&title_color=00bfbf&icon_color=00bfbf&text_color=00bfbf&bg_color=c8c7bf00" alt="CLEITON LEAL DE BRITO github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleitonLealbb&layout=compact&hide_border= true&title_color=00bfbf&text_color=00bfbf&bg_color=c8c7bf00" />
 </div>
 
 ### Studying in this moment: 
